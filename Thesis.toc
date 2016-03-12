@@ -1,0 +1,23 @@
+\contentsline {chapter}{Declaration of Authorship}{i}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Abstract}{iii}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{Acknowledgements}{iv}{dummy.3}
+\vspace {1em}
+\contentsline {chapter}{Abbreviations}{vi}{dummy.5}
+\vspace {2em}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.8}
+\contentsline {chapter}{\numberline {2} Literature Review and Background}{3}{chapter.9}
+\contentsline {section}{\numberline {2.1}Sentiment Analysis}{3}{section.10}
+\contentsline {section}{\numberline {2.2}Neural Network}{3}{section.11}
+\contentsline {section}{\numberline {2.3}Deep learning}{4}{section.13}
+\contentsline {section}{\numberline {2.4}Support vector machine}{5}{section.14}
+\contentsline {subsection}{\numberline {2.4.1}Background: Neural Network}{6}{subsection.16}
+\contentsline {subsection}{\numberline {2.4.2}Deep Belief Networks}{7}{subsection.17}
+\contentsline {subsection}{\numberline {2.4.3}Convulational Neural Network}{7}{subsection.18}
+\contentsline {section}{\numberline {2.5}Previous Work}{8}{section.20}
+\contentsline {chapter}{\numberline {3}Experiment}{12}{chapter.22}
+\contentsline {section}{\numberline {3.1}Experiment Setup}{13}{section.23}
+\contentsline {section}{\numberline {3.2}Experiment Result}{13}{section.24}
+\contentsline {section}{\numberline {3.3}Comparison With Other Approaches }{13}{section.25}
+\contentsline {chapter}{\numberline {4}Conclusion}{14}{chapter.26}
